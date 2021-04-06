@@ -8,7 +8,7 @@
 
 
 |email|Autor|
-|------------------------------|
+|------------------------|
 |2005097@ucc.edu.ar|Pedro Nicolas Petrashin|
 
 
